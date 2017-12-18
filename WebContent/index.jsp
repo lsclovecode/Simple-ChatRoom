@@ -26,7 +26,7 @@
 }
 
 .chat-content-container {
-	height: 29rem;
+	height: 20rem;
 	overflow-y: scroll;
 	border: 1px solid silver;
 }
